@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="kde-dev-utils"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="KDE developer utilties"
+DESCRIPTION="Part of the KDE developer tools suite"
+
+OBSOLETES="kpartloader kprofilemethod kstartperf kuiviewer"
