@@ -4,7 +4,7 @@ NAME="kde-dev-utils"
 VERSION=15.04.3
 RELEASE=1
 CATEGORY="Devel"
-SUMMARY="KDE developer utilties"
+SUMMARY="KDE developer utilities"
 DESCRIPTION="Part of the KDE developer tools suite"
 
 OBSOLETES="kpartloader kprofilemethod kstartperf kuiviewer"
